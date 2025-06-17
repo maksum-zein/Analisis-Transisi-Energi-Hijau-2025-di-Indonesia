@@ -29,7 +29,8 @@ Apa yang bakal didapat? 🎁:
 Ditunggu partisipasinya! 🎉 
 
 Aksi kecil hari ini = dampak besar untuk bumi 🌍💚. 
-* Let’s lead the green revolution! ♻️🚀
+
+Let’s lead the green revolution! ♻️🚀
 
 
 _#EcoTechnoLeader #EnergiHijau2025 #IndonesiaHijau 🌿✨_
@@ -46,12 +47,13 @@ Halo, Eco-Techno Leaders masa depan! 🎉🌱
 Bersiaplah masuk ke petualangan baru yang seru banget—kita akan jadi pionir data hijau untuk Indonesia yang lebih sustainable! 💚📊
 
 Di stage ini, kita akan:
-
+````
 1. Hitung pajak karbon untuk patuhi regulasi 📜💰
 2. Deteksi greenwashing pakai data emisi 🕵️♂️🌍
 3. Analisis risiko lahan kurangi konflik sosial ⚖️🚜
 4. Belajar Python dari dasar sampai pro (if-else sampai modul!) 🐍💻
 5. Bikin portofolio keren buat usulan ke pemerintah 🏛️✨
+````
 
 Tools yang akan dipakai:
 
@@ -61,7 +63,7 @@ Tools yang akan dipakai:
 
 Tenang! Tutorial ini ramah pemula, langkah demi langkah, pakai data realistis, dan pastinya—dampaknya nyata! 🚀
 
-"Masa depan hijau dimulai dari langkah kecil kita hari ini. Yuk, bersama-sama wujudkan perubahan!" 🌿🙌
+_"Masa depan hijau dimulai dari langkah kecil kita hari ini. Yuk, bersama-sama wujudkan perubahan!" 🌿🙌_
 
 > Doa & Semangat:
 > "Semoga ilmu ini jadi berkah, bermanfaat untuk bumi dan sesama. 
