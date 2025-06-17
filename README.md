@@ -28,11 +28,11 @@ Apa yang bakal didapat? 🎁:
 🔸 Networking dengan ahli & praktisi energi 🌐🤝
 
 Ditunggu partisipasinya! 🎉 
-''''
+````
 Aksi kecil hari ini = dampak besar untuk bumi 🌍💚. 
 
 Let’s lead the green revolution! ♻️🚀
-''''
+````
 
 _#EcoTechnoLeader #EnergiHijau2025 #IndonesiaHijau 🌿✨_
 
@@ -49,18 +49,15 @@ Bersiaplah masuk ke petualangan baru yang seru banget—kita akan jadi pionir da
 
 Di stage ini, kita akan:
 
-🔹 Hitung pajak karbon untuk patuhi regulasi 📜💰
-
-🔹 Deteksi greenwashing pakai data emisi 🕵️♂️🌍
-
-🔹 Analisis risiko lahan kurangi konflik sosial ⚖️🚜
-
-🔹 Belajar Python dari dasar sampai pro (if-else sampai modul!) 🐍💻
-
-🔹 Bikin portofolio keren buat usulan ke pemerintah 🏛️✨
+1. Hitung pajak karbon untuk patuhi regulasi 📜💰
+2. Deteksi greenwashing pakai data emisi 🕵️♂️🌍
+3. Analisis risiko lahan kurangi konflik sosial ⚖️🚜
+4. Belajar Python dari dasar sampai pro (if-else sampai modul!) 🐍💻
+5. Bikin portofolio keren buat usulan ke pemerintah 🏛️✨
 
 Tools yang akan dipakai:
 🛠️ Anaconda + VSCode + Jupyter Notebook
+
 📚 Library: Pandas, NumPy, Matplotlib (siap jadi data wizard!)
 
 Tenang! Tutorial ini ramah pemula, langkah demi langkah, pakai data realistis, dan pastinya—dampaknya nyata! 🚀
