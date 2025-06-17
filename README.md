@@ -14,17 +14,17 @@ Workshop ini kupas peluang &amp; tantangan transisi energi hijau di Indonesia 20
 **Workshop: Eco Techno Leader - Analisis Transisi Energi Hijau 2025 di Indonesia 🌱💡**
 
 Yuk, jadi pionir transisi energi hijau! 🚀✨ 
-````
+
 - Workshop ini bakal kupas tuntas strategi & inovasi energi terbarukan di Indonesia tahun 2025 🌞🌊💨. 
 - Kita akan analisis peluang, tantangan, dan solusi buat masa depan rendah karbon 📊🔍.
-````
 
 Apa yang bakal didapat? 🎁:
-
-* 🔸 Insight kebijakan terbaru pemerintah 📜🇮🇩
-* 🔸 Teknologi hijau terkini (surya, angin, hidro, dll.) ☀️🍃⚡
-* 🔸 Studi kasus sukses & roadmap implementasi 🗺️✅
-* 🔸 Networking dengan ahli & praktisi energi 🌐🤝
+````
+🔸 Insight kebijakan terbaru pemerintah 📜🇮🇩
+🔸 Teknologi hijau terkini (surya, angin, hidro, dll.) ☀️🍃⚡
+🔸 Studi kasus sukses & roadmap implementasi 🗺️✅
+🔸 Networking dengan ahli & praktisi energi 🌐🤝
+````
 
 Ditunggu partisipasinya! 🎉 
 
@@ -54,6 +54,7 @@ Di stage ini, kita akan:
 5. Bikin portofolio keren buat usulan ke pemerintah 🏛️✨
 
 Tools yang akan dipakai:
+
 🛠️ Anaconda + VSCode + Jupyter Notebook
 
 📚 Library: Pandas, NumPy, Matplotlib (siap jadi data wizard!)
